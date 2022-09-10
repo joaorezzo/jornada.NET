@@ -1,0 +1,15 @@
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\bin\Debug\net6.0\jornada.NETAula2.exe
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\bin\Debug\net6.0\jornada.NETAula2.deps.json
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\bin\Debug\net6.0\jornada.NETAula2.runtimeconfig.json
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\bin\Debug\net6.0\jornada.NETAula2.dll
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\bin\Debug\net6.0\jornada.NETAula2.pdb
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\jornada.NETAula2.csproj.AssemblyReference.cache
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\jornada.NETAula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\jornada.NETAula2.AssemblyInfoInputs.cache
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\jornada.NETAula2.AssemblyInfo.cs
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\jornada.NETAula2.csproj.CoreCompileInputs.cache
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\jornada.NETAula2.dll
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\refint\jornada.NETAula2.dll
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\jornada.NETAula2.pdb
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\jornada.NETAula2.genruntimeconfig.cache
+D:\coding\Jornada .NET\Aula 2\jornada.NETAula2\obj\Debug\net6.0\ref\jornada.NETAula2.dll
